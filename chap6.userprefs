@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/TouchMove.js">
+    <Files>
+      <File FileName="Assets/scripts/Courseout.js" Line="18" Column="1" />
+      <File FileName="Assets/scripts/GoalArea.js" Line="19" Column="1" />
+      <File FileName="Assets/scripts/TimeText.js" Line="16" Column="1" />
+      <File FileName="Assets/scripts/Result.js" Line="37" Column="46" />
+      <File FileName="Assets/scripts/TouchMove.js" Line="15" Column="8" />
+      <File FileName="Assets/Locomotion Setup/Scripts/SmoothFollow.js" Line="17" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
